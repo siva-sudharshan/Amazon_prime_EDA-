@@ -8,7 +8,6 @@ content catalog using **Python**. The objective is to uncover insights related
 to content type, genres, ratings, languages, and release trends to better
 understand the platform’s content strategy.
 
----
 
 ## 🎯 Business Objective
 - Analyze the distribution of Movies and TV Shows
@@ -17,14 +16,12 @@ understand the platform’s content strategy.
 - Analyze language distribution across content
 - Study year-wise content release trends
 
----
 
 ## 📂 Dataset Information
 - **Dataset Name:** Amazon Prime Titles
 - **File Format:** CSV
 - **Content:** Movies and TV Shows available on Amazon Prime Video
 
----
 
 ## 🛠️ Tools & Technologies
 - **Python 3**
@@ -33,7 +30,6 @@ understand the platform’s content strategy.
 - **NumPy** – Numerical computations
 - **Matplotlib & Seaborn** – Data visualization
 
----
 
 ## 🗂️ Project Structure
 Amazon_Prime_EDA/
@@ -48,8 +44,6 @@ Amazon_Prime_EDA/
 yaml
 Copy code
 
----
-
 ## 🔍 Analysis Workflow
 1. Business understanding and objective definition
 2. Dataset loading and overview
@@ -59,7 +53,6 @@ Copy code
 6. Data visualization and insights
 7. Conclusion and recommendations
 
----
 
 ## 📈 Key Insights
 - Movies dominate the Amazon Prime content library.
@@ -67,8 +60,7 @@ Copy code
 - English is the most widely used language.
 - Content releases increased significantly after 2015.
 - Majority of content falls under family-friendly ratings.
-
----
+  
 
 ## 📌 Conclusion
 Amazon Prime Video’s content catalog is largely movie-focused with strong
@@ -76,9 +68,3 @@ genre diversity and rapid growth in recent years. The analysis highlights
 opportunities for expanding regional and TV show content to improve
 user engagement.
 
----
-
-## ⚠️ Assumptions & Limitations
-- The dataset may not represent the latest Amazon Prime catalog.
-- Viewer engagement and popularity metrics are not included.
-- Some columns contain multiple values, which may affect frequency analysis.
