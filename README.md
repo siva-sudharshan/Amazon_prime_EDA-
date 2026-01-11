@@ -1,3 +1,4 @@
+<img width="980" height="471" alt="Screenshot 2026-01-03 123808" src="https://github.com/user-attachments/assets/ecaa3606-1c8e-4924-9e87-55a42212ba46" />
 # Amazon_prime_EDA-
 An Exploratory Data Analysis (EDA) project on Amazon Prime content data aimed at identifying trends in movies and TV shows. The analysis focuses on genre distribution, release year patterns, content ratings, and country-wise availability using Python-based data analysis and visualization techniques.
 📊 Amazon Prime Video – Exploratory Data Analysis (EDA)
